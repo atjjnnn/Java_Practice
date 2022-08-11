@@ -25,7 +25,7 @@ class MyWindow2 extends Frame implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == btn1) btn1.setLabel("ボタン1をクリックした");
-        if (e.getSource() ==btn2) btn2.setLabel("ボタン2をクリックした");
+        if (e.getSource() == btn2) btn2.setLabel("ボタン2をクリックした");
     }
 }
 
