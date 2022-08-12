@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class Main2 {
+class Main {
     public static void main(String[] args) {
         MyWindow2 mw = new MyWindow2();
     }
